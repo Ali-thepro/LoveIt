@@ -57,7 +57,7 @@ medium:
 # 008: GitLab
 gitlab:
   Weight: 8
-  Prefix: https://gitlab.com/
+  Prefix: 
   Title: GitLab
   Icon:
     Class: fab fa-gitlab fa-fw
